@@ -1,1 +1,3 @@
-hey this is safin , a software developer from bangladesh.
+hey this is safin , a software developer from bangladesh
+
+now i'm learning devOps and cloud eng.
